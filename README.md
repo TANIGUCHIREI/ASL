@@ -19,7 +19,7 @@ Installation with the requirements package.
 ```
 conda create -n asl python=3.9
 conda activate asl
-cd Adaptive_Select
+cd ASL
 pip install -r requirements.txt
 pip install flash-attn==2.6.3
 ```
