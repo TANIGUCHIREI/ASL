@@ -1,0 +1,14 @@
+**/__pycache__
+/outputs
+/results
+/outputs_old
+/results_old
+**/*.jsonl
+**/*.ipynb
+**/*.out
+**/*.zip
+**/*.log
+eval/*.png
+**/*.pdf
+/scripts
+**/*.DS_Store
